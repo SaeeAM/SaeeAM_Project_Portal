@@ -1,0 +1,14 @@
+{
+  "name": "saeeam_project_portal",
+  "version": "1.0.0",
+  "description": "saeeam project portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "saeeam"
+  ],
+  "author": "saeeam",
+  "license": "ISC"
+}
